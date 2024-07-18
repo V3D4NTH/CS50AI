@@ -6,7 +6,6 @@ from sklearn.neighbors import KNeighborsClassifier
 
 TEST_SIZE = 0.4
 
-
 def main():
 
     # Check command-line arguments
@@ -105,9 +104,10 @@ def train_model(evidence, labels):
 
 
 def evaluate(labels, predictions):
+    
     """
     Given a list of actual labels and a list of predicted labels,
-    return a tuple (sensitivity, specificty).
+    return a tuple (sensitivity, specificty)
 
     Assume each label is either a 1 (positive) or 0 (negative).
 
@@ -137,3 +137,6 @@ def evaluate(labels, predictions):
 
 if __name__ == "__main__":
     main()
+
+
+
