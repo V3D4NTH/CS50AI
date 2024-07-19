@@ -4,15 +4,19 @@
 
 This repository contains the code I wrote while taking 
 Harvard University's reputed course, [CS50AI](https://cs50.harvard.edu/ai/2024/).
-  Showcased here are the projects I completed in each chapter of this course.
-
-Down below, I have added a brief background of each project.
+  Showcased here are the projects I completed in each chapter of this course. 
+  I really enjoyed taking this course. The CS50AI lectures are available online for free!
+  I'd highly recommend listening to them. Brian Yu does a fantastic job explaining 
+  the concepts covered in the course. You can find the playlist [here](https://youtube.com/playlist?list=PLhQjrBD2T381PopUTYtMSstgk-hsTGkVm&si=BV9PQwZy1xw6d157).
 
 Note: These files can also be used as a resource for anyone who hits a dead-end while 
 taking the course. My code can be viewed to gain perspective on how to approach your problem. 
 However, do not blatantly copy and paste the code as this would be against CS50's Academic Honesty Rules.
 
 ![Certificate](https://github.com/user-attachments/assets/c7f525ea-0af4-4627-bf2e-7dbd36a527dd)
+
+
+Down below, I have added a brief background of each project.
 
 
 <h2>Week 0: Search</h2>
